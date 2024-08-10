@@ -1,5 +1,7 @@
 # SPRUCE
 
+This code trains and uses a model for improving rare and unknown words for deep contextualized models like BERT.  For more information, please see our NAACL Findings paper here: https://aclanthology.org/2024.findings-naacl.88/
+
 To see how this code is run, see train_bertram_on_pca_embs.sh .
 
 SPRUCE model defined in bertram_variants.py
